@@ -1,116 +1,191 @@
-<h1 align="center">Hola 👋 Soy Victoria</h1>
-
-<h3 align="center">
-Backend Developer • Data & AI • SAS Visual Analytics
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a00f4,50:ff4ecd,100:00c6ff&text=Victoria%20Abril&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20Data%20%20%E2%80%A2%20%20SAS%20Visual%20Analytics&descAlignY=58&animation=fadeIn" />
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&width=600&lines=Backend+Developer;SAS+Visual+Analytics+User;LLM+Model+Developer;JavaScript+HTML+CSS+Developer;Data+Analysis+and+Visualization"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=800&color=FF4ECD&center=true&vCenter=true&width=900&height=60&lines=Hola+%F0%9F%91%8B+Soy+Victoria;Backend+Developer;AI+%26+LLM+Developer;SAS+Visual+Analytics;JavaScript+%7C+HTML+%7C+CSS;Data+Analysis+%26+Architecture" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictoriaAbril01&label=Visitas&color=ff4ecd&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/VictoriaAbril01?style=for-the-badge&color=00c6ff" />
+  <img src="https://img.shields.io/github/stars/VictoriaAbril01?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6a00f4" />
 </p>
 
 ---
 
-# 🚀 Sobre mí
+## ✨ Sobre mí
 
-💻 Desarrolladora enfocada en **Backend, análisis de datos e inteligencia artificial**.  
+Soy una desarrolladora enfocada en **backend, inteligencia artificial, análisis de datos y visualización**.  
+Me gusta construir soluciones que unan **arquitectura, datos, APIs, modelos LLM y visualización de información**.
 
-Me gusta construir sistemas que combinan **datos, visualización e inteligencia artificial** para resolver problemas complejos.
-
-Trabajo principalmente con:
-
-- APIs y sistemas backend
-- análisis de datos
-- visualización de información
-- desarrollo de modelos LLM
-- desarrollo web
-
----
-
-# 🧠 Áreas de especialidad
-
-🔹 Desarrollo de **APIs y backend**  
-🔹 **SAS Visual Analytics**  
-🔹 **Modelos de lenguaje (LLM)**  
-🔹 **Análisis y visualización de datos**  
-🔹 Desarrollo web con **JavaScript, HTML y CSS**  
-🔹 Integración de bases de datos  
+### Trabajo con:
+- **SAS Visual Analytics**
+- **Modelos LLM**
+- **Python**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **PostgreSQL**
+- **FastAPI**
+- **Docker**
 
 ---
 
-# 🛠 Tecnologías
+## 🧠 Arquitectura / AI / Data
 
-### Lenguajes
+<table>
+<tr>
+<td width="33%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+### 🚀 Arquitectura
+- Diseño de APIs
+- Backend escalable
+- Integración de servicios
+- Bases de datos relacionales
+- Flujos de trabajo orientados a datos
 
-### Backend
+</td>
+<td width="33%" valign="top">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+### 🤖 AI / LLM
+- Desarrollo de soluciones con LLM
+- Procesamiento de texto
+- Automatización inteligente
+- Estructuración de datos para IA
+- Integración de IA en productos
 
-### Data
+</td>
+<td width="33%" valign="top">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![SAS](https://img.shields.io/badge/SAS%20Visual%20Analytics-1E90FF)
+### 📊 Data
+- Análisis de datos
+- Visualización de información
+- Dashboards
+- Exploración de datos
+- Sistemas orientados a investigación
 
-### Inteligencia Artificial
-
-![LLM](https://img.shields.io/badge/LLM-AI-purple)
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 Actividad en GitHub
+## 🛠 Tecnologías y herramientas
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,docker,fastapi,git,github,vscode" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictoriaAbril01&show_icons=true&theme=radical&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriaAbril01&theme=radical&hide_border=true" height="180"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/SAS%20Visual%20Analytics-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-00c6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-6a00f4?style=for-the-badge" />
 </p>
 
 ---
 
-# 📈 Lenguajes más usados
+## 🔥 Actividad en GitHub
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaAbril01&layout=compact&theme=radical&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoriaAbril01&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriaAbril01&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-# 🌱 Actualmente aprendiendo
+## 📈 Lenguajes más usados
 
-- Optimización de **modelos LLM**
-- Arquitecturas de **inteligencia artificial**
-- Sistemas de **análisis de datos a gran escala**
-
----
-
-# 📂 Proyectos en los que trabajo
-
-🔹 APIs de análisis de datos  
-🔹 Sistemas de visualización de información  
-🔹 Integración de bases de datos  
-🔹 Desarrollo de modelos LLM  
-🔹 Backend para plataformas de análisis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaAbril01&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-# 📫 Contacto
+## 📊 GitHub Activity Graph
 
-GitHub  
-https://github.com/VictoriaAbril01
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaAbril01&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Snake animation de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VictoriaAbril01/VictoriaAbril01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🧠 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Aplicate Por Tu Mente
+App enfocada en salud mental con arquitectura de backend, autenticación, base de datos y flujos de análisis.
+
+**Tecnologías:**  
+Flutter • FastAPI • PostgreSQL • Keycloak
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Sistemas de análisis e investigación
+Soluciones para análisis de datos, visualización de redes, integración de fuentes y estructuras relacionales.
+
+**Tecnologías:**  
+Python • PostgreSQL • SAS • Visual Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Proyectos con LLM
+Desarrollo de soluciones con modelos de lenguaje para procesamiento, análisis y estructuración de información.
+
+**Tecnologías:**  
+Python • LLM • NLP • APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Backend y visualización
+Construcción de APIs, dashboards y herramientas para interpretación visual de información compleja.
+
+**Tecnologías:**  
+FastAPI • JavaScript • HTML • CSS • Data Viz
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Optimización de arquitecturas de IA
+- Integración avanzada de modelos LLM
+- Sistemas de análisis de datos a gran escala
+- Mejores prácticas de backend y despliegue
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://github.com/VictoriaAbril01">
+    <img src="https://img.shields.io/badge/GitHub-VictoriaAbril01-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VictoriaAbril01&color=blueviolet"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a00f4,50:ff4ecd,100:00c6ff" />
 </p>
